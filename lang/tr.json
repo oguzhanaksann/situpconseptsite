@@ -1,0 +1,25 @@
+{
+    "nav_home": "Ana Sayfa",
+    "nav_services": "Hizmetler",
+    "nav_projects": "Projeler",
+    "nav_about": "Hakkımızda",
+    "nav_contact": "İletişim",
+    "slide1_title": "Botanik Kafe",
+    "slide1_desc": "Doğayla iç içe, ferah ve huzurlu bir atmosfer.",
+    "slide1_button": "Projeyi İncele",
+    "slide2_title": "Endüstriyel Tasarım Kafe",
+    "slide2_desc": "Ham malzeme ve modern tasarımın buluşması.",
+    "slide2_button": "Projeyi İncele",
+    "slide3_title": "Gourmet Kafe",
+    "slide3_desc": "Şık ve zarif detaylarla bezenmiş lüks bir mekan.",
+    "slide3_button": "Projeyi İncele",
+
+    "services_page_title": "Hizmetlerimiz",
+    "services_page_desc": "Hayalinizdeki konsept kafeyi gerçeğe dönüştürmek için sunduğumuz profesyonel hizmetler.",
+    "service1_title": "Konsept Geliştirme",
+    "service1_desc": "Marka kimliğinize ve hedef kitlenize en uygun, yenilikçi ve akılda kalıcı kafe konseptleri tasarlıyoruz.",
+    "service2_title": "İç Mekan Tasarımı",
+    "service2_desc": "Müşteri deneyimini en üst seviyeye çıkaran, estetik ve fonksiyonel iç mekanlar yaratıyoruz.",
+    "service3_title": "Proje Yönetimi",
+    "service3_desc": "Tasarım aşamasından anahtar teslime kadar tüm süreci sizin adınıza yönetiyoruz."
+}

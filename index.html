@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sit Up Concept | Mimarlık ve Kafe Tasarımı</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <div class="container nav-container">
+            <a href="index.html" class="logo"><img src="images/logo.png" alt="Sit Up Concept Logo"></a>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active" data-lang="nav_home">Ana Sayfa</a></li>
+                <li><a href="services.html" data-lang="nav_services">Hizmetler</a></li>
+                <li><a href="projects.html" data-lang="nav_projects">Projeler</a></li>
+                <li><a href="about.html" data-lang="nav_about">Hakkımızda</a></li>
+                <li><a href="contact.html" data-lang="nav_contact">İletişim</a></li>
+            </ul>
+            <div class="language-switcher"><a href="#" data-set-lang="tr">TR</a><span>/</span><a href="#" data-set-lang="en">EN</a></div>
+            <button class="hamburger"><i class="fas fa-bars"></i></button>
+        </div>
+        <div class="mobile-nav">
+            <button class="mobile-nav-close"><i class="fas fa-times"></i></button>
+            <ul>
+                <li><a href="index.html" data-lang="nav_home">Ana Sayfa</a></li>
+                <li><a href="services.html" data-lang="nav_services">Hizmetler</a></li>
+                <li><a href="projects.html" data-lang="nav_projects">Projeler</a></li>
+                <li><a href="about.html" data-lang="nav_about">Hakkımızda</a></li>
+                <li><a href="contact.html" data-lang="nav_contact">İletişim</a></li>
+            </ul>
+            <div class="language-switcher-mobile"><a href="#" data-set-lang="tr">TR</a><span>/</span><a href="#" data-set-lang="en">EN</a></div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="swiper hero-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide" style="background-image: url('https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib-rb-1.2.1&auto=format&fit=crop&w=1500&q=80');"><a href="botanik-kafe.html" class="slide-link"><div class="hero-content"><h1 data-aos="fade-up" data-lang="slide1_title">Botanik Kafe</h1><p data-aos="fade-up" data-aos-delay="200" data-lang="slide1_desc">Doğayla iç içe, ferah ve huzurlu bir atmosfer.</p><span class="btn" data-aos="fade-up" data-aos-delay="400" data-lang="slide1_button">Projeyi İncele</span></div></a></div>
+                <div class="swiper-slide" style="background-image: url('https://images.unsplash.com/photo-1463797221720-6b07e6426c24?ixlib.rb-1.2.1&auto=format&fit=crop&w=1500&q=80');"><a href="#" class="slide-link"><div class="hero-content"><h1 data-aos="fade-up" data-lang="slide2_title">Endüstriyel Tasarım Kafe</h1><p data-aos="fade-up" data-aos-delay="200" data-lang="slide2_desc">Ham malzeme ve modern tasarımın buluşması.</p><span class="btn" data-aos="fade-up" data-aos-delay="400" data-lang="slide2_button">Projeyi İncele</span></div></a></div>
+                <div class="swiper-slide" style="background-image: url('https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib.rb-1.2.1&auto=format&fit=crop&w=1500&q=80');"><a href="#" class="slide-link"><div class="hero-content"><h1 data-aos="fade-up" data-lang="slide3_title">Gourmet Kafe</h1><p data-aos="fade-up" data-aos-delay="200" data-lang="slide3_desc">Şık ve zarif detaylarla bezenmiş lüks bir mekan.</p><span class="btn" data-aos="fade-up" data-aos-delay="400" data-lang="slide3_button">Projeyi İncele</span></div></a></div>
+            </div>
+            <div class="swiper-button-next"></div><div class="swiper-button-prev"></div><div class="swiper-pagination"></div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

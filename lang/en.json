@@ -1,0 +1,25 @@
+{
+    "nav_home": "Home",
+    "nav_services": "Services",
+    "nav_projects": "Projects",
+    "nav_about": "About Us",
+    "nav_contact": "Contact",
+    "slide1_title": "Botanic Cafe",
+    "slide1_desc": "A fresh and peaceful atmosphere intertwined with nature.",
+    "slide1_button": "View Project",
+    "slide2_title": "Industrial Design Cafe",
+    "slide2_desc": "Where raw materials meet modern design.",
+    "slide2_button": "View Project",
+    "slide3_title": "Gourmet Cafe",
+    "slide3_desc": "A luxurious space adorned with elegant and chic details.",
+    "slide3_button": "View Project",
+    
+    "services_page_title": "Our Services",
+    "services_page_desc": "Professional services we offer to turn your dream concept cafe into reality.",
+    "service1_title": "Concept Development",
+    "service1_desc": "We design innovative and memorable cafe concepts that best suit your brand identity and target audience.",
+    "service2_title": "Interior Design",
+    "service2_desc": "We create aesthetic and functional interior spaces that maximize the customer experience.",
+    "service3_title": "Project Management",
+    "service3_desc": "We manage the entire process on your behalf, from the design phase to the turnkey delivery."
+}
